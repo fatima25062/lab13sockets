@@ -1,0 +1,23 @@
+server:
+fatima@mint:~/socket/lab05_bank_json$ python3 server.py
+Bank server on port 9092
+client ('127.0.0.1', 40180)
+
+
+client:
+fatima@mint:~/socket/lab05_bank_json$ python3 client.py
+Action (balance / deposit / withdraw): balance
+Balance: 0
+
+server:
+fatima@mint:~/socket/lab05_bank_json$ python3 server.py
+Bank server on port 9092
+client ('127.0.0.1', 59168)
+
+
+client:
+fatima@mint:~/socket/lab05_bank_json$ python3 client.py
+Action (balance / deposit / withdraw): deposit
+Amount: 5
+Balance: 5
+
