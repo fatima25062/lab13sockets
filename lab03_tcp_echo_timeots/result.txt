@@ -1,0 +1,8 @@
+server is listening on 9090
+new client ('127.0.0.1', 41994)
+received ppp
+client left
+
+message (exit to quit): ppp
+echo ppp
+
