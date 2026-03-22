@@ -1,0 +1,19 @@
+pickle
+server:
+fatima@mint:~/socket/lab04_pickle_and_udp/pickle$ python3 server.py
+
+
+client:
+fatima@mint:~/socket/lab04_pickle_and_udp/pickle$ python3 client.py
+echo {'name': 'alice', 'n': 42}
+
+upd
+server:
+fatima@mint:~/socket/lab04_pickle_and_udp/udp$ python3 server.py
+
+
+
+client:
+fatima@mint:~/socket/lab04_pickle_and_udp/udp$ python3 client.py
+echo hello udp
+
