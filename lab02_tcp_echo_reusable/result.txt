@@ -1,0 +1,10 @@
+server is listening
+new client accepted ('127.0.0.1', 46806)
+received hi
+received exit
+client left, waiting for next
+
+
+message (exit to quit): hi
+echo hi
+message (exit to quit): exit
